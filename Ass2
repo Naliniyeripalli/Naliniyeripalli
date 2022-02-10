@@ -1,0 +1,11 @@
+Sno=int(input('enter sno'))
+Sname=int(input('enter sname'))
+Sgroup=int(input('enter sgroup'))
+S1=int(input('maths marks'))
+S2=int(input('phy marks'))
+S3=int(input('chem marks'))
+if s1>=35 and s2>=35 and s3>=35:
+print('pass')
+else:
+print('fail')
+
